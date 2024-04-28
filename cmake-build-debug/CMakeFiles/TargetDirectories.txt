@@ -1,0 +1,3 @@
+/Users/k.aminaddinov/Documents/NewUU/CS101_Spring2024-25/Labs/tasks/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+/Users/k.aminaddinov/Documents/NewUU/CS101_Spring2024-25/Labs/tasks/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/k.aminaddinov/Documents/NewUU/CS101_Spring2024-25/Labs/tasks/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
