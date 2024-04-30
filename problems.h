@@ -1,9 +1,8 @@
 // P1
 template <typename T>
-T add(T num1, T num2) {
-    return 0;
-}
+T findLargest(const T& a, const T& b, const T& c) {
 
+}
 // P2
 template <typename T>
 void Myswap(T& a, T& b) {
